@@ -1,5 +1,14 @@
 # @ai-sdk/anthropic
 
+## 1.1.1
+
+### Patch Changes
+
+- 858f934: feat (provider/anthropic): default cache-control on and mark model setting deprecated
+- b284e2c: feat (provider/google-vertex): support prompt caching for Anthropic Claude models
+- Updated dependencies [e7a9ec9]
+  - @ai-sdk/provider-utils@2.1.1
+
 ## 1.1.0
 
 ### Minor Changes
